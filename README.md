@@ -1,1 +1,1 @@
-# BootcampWebAutomation-EJ2Project
+# bootcampAutomationUI
